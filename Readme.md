@@ -17,3 +17,5 @@ AnswerReceiver B
 
 
 https://0.0.0.0:3000/ws
+
+Фронт доступен из [данного рпозитория](https://github.com/HunterGooD/webrtcGolangServer/tree/main/web) 
